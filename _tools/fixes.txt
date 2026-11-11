@@ -1,0 +1,38 @@
+车上|chē shàng|trên xe|xa thượng|1|nc|a
+这时候|zhè shí hou|lúc này, vào lúc ấy|giá thời hậu|2|hu|a
+送到|sòng dào|đưa đến, giao tới|tống đáo|2|dt|a
+不一会儿|bù yí huì r|chẳng mấy chốc, một lát sau|bất nhất hội nhi|2|hu|a
+不太|bú tài|không… lắm|bất thái|2|hu|a
+见过|jiàn guo|đã từng gặp, đã thấy|kiến quá|2|dt|a
+放到|fàng dào|đặt vào, để vào|phóng đáo|3|dt|a
+能不能|néng bu néng|có thể… không?|năng bất năng|3|hu|a
+眼里|yǎn li|trong mắt; theo cách nhìn của ai|nhãn lý|4|nc|a
+有劲儿|yǒu jìn r|có sức, khỏe; hăng say, thú vị|hữu kình nhi|4|tt|a
+城里|chéng li|trong thành phố|thành lý|5|nc|a
+一番|yì fān|một phen, một lượt|nhất phiên|6|so|a
+很难说|hěn nán shuō|khó nói, khó mà biết được|ngận nan thuyết|6|dt|a
+指着|zhǐ zhe|chỉ vào, trỏ vào|chỉ trứ|6|dt|a
+致力于|zhì lì yú|dốc sức vào, tận lực cho|trí lực vu|7|dt|a
+怀着|huái zhe|mang theo, ôm ấp (tình cảm, hy vọng)|hoài trứ|7|dt|a
+飞往|fēi wǎng|bay đến, bay tới|phi vãng|7|dt|a
+不肯|bù kěn|không chịu, không muốn|bất khẳng|7|dt|a
+不如说|bù rú shuō|chẳng thà nói là, đúng hơn là|bất như thuyết|7|hu|a
+趁着|chèn zhe|nhân lúc, thừa dịp|sấn trứ|7|hu|a
+不予|bù yǔ|không cho, không chấp nhận|bất dư|7|dt|a
+公益性|gōng yì xìng|tính công ích, vì lợi ích cộng đồng|công ích tính|7|dn|a
+定为|dìng wéi|định là, quy định là|định vi|7|dt|a
+不难|bù nán|không khó|bất nan|7|tt|a
+不利于|bú lì yú|bất lợi cho, không có lợi cho|bất lợi vu|7|dt|a
+说起来|shuō qǐ lai|nói ra thì, nhắc đến thì|thuyết khởi lai|7|dt|a
+着眼于|zhuó yǎn yú|chú trọng vào, nhắm vào|trứ nhãn vu|7|dt|a
+难以想象|nán yǐ xiǎng xiàng|khó mà tưởng tượng|nan dĩ tưởng tượng|7|tt|a
+有空儿|yǒu kòng r|có thời gian rảnh|hữu không nhi|2|dt|a
+笑话儿|xiào hua r|chuyện cười; trò cười; chế giễu|tiếu thoại nhi|2|dn|a
+电动车|diàn dòng chē|xe điện (xe máy điện, xe đạp điện)|điện động xa|4|dn|a
+没法儿|méi fǎ r|không có cách nào, đành chịu|một pháp nhi|4|hu|a
+名牌儿|míng pái r|hàng hiệu, thương hiệu nổi tiếng|danh bài nhi|4|dn|a
+小偷儿|xiǎo tōu r|kẻ trộm|tiểu thâu nhi|5|dn|a
+胡同儿|hú tòng r|ngõ, hẻm (kiểu Bắc Kinh)|hồ đồng nhi|5|dn|a
+大笔|dà bǐ|khoản (tiền) lớn; nét bút của ngài (tôn kính)|đại bút|7|dn|a
+离谱儿|lí pǔ r|quá đáng, vô lý, lệch chuẩn|ly phổ nhi|7|tt|a
+贪玩儿|tān wán r|ham chơi|tham ngoạn nhi|7|tt|a
